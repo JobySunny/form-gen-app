@@ -11,7 +11,7 @@ export default function Generator() {
 
   return (
     <>
-      <FormGenerator name="myform" onExport={onExport} />;
+      <FormGenerator name="myform" onExport={onExport} />
     </>
   );
 }

@@ -2,7 +2,7 @@ import React from "react";
 import { FormRenderer } from "@steera/form-manager";
 import { useLocation } from "react-router-dom";
 
-export default function Renderer(route) {
+export default function Renderer() {
   const location = useLocation();
 
   const [submitted, setSubmitted] = React.useState(false);
