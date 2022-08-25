@@ -1619,10 +1619,10 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@steera/form-manager@^0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@steera/form-manager/-/form-manager-0.3.1.tgz#9cf3ba834d34c56655ceb29c3f37d1ebbec41167"
-  integrity sha512-J+UcERmPYPEoYoSnHIUEAmTg/FyIQ3nkGVPMvyaUOQjtJOmVUpVrXj8EEFOivh3P+lZx0tZY5zg+4tV6ItNU4Q==
+"@steera/form-manager@^0.3.2":
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@steera/form-manager/-/form-manager-0.3.2.tgz#4421f26dde1f4ad6076c57608bdedb586de995ef"
+  integrity sha512-k5mmA1ur98j1ldLN62sfP050M9hj//7sgNK5qs9hA24uqbMLuJSuZy8DjPd00ev5auNV41vaZBqiPEJR2b/2wQ==
   dependencies:
     immer "~9.0.14"
     sass "~1.50.1"
